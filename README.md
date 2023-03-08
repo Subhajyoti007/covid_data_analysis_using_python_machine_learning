@@ -1,5 +1,5 @@
 # covid_data_analysis_using_python_machine_learning
-Live covid_data_analysis_using_python_machine_learning model.
+Live covid_data_analysis_using_python_machine_learning model.(This is mu BCA Major Project)
 
 The Covid-19 pandemic has had a massive impact on the world, and data analysis is one of the most important tools to help us understand its effects. Python Machine Learning can be used for analyzing large datasets related to Covid-19 in order to generate actionable insights.
 
